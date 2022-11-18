@@ -12,7 +12,7 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: Help other people.
+:outbox_tray: 2023 Goals: Help other people.
 
  
 
