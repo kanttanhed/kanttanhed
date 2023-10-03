@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning Software Architecture.
 
 :outbox_tray: 2023 Goals: Help other people.
 
