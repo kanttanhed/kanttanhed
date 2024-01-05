@@ -6,13 +6,13 @@
 
  
 
-:computer: I'm Fullstack Software Engineer!
+:computer: I'm Java Software Engineer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Brazil but I live in Portugal.
 
 :books: I’m currently learning Software Architecture.
 
-:outbox_tray: 2023 Goals: Help other people.
+:outbox_tray: 2024 Goals: Help other people.
 
  
 
@@ -21,8 +21,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)]( LINK_LINKEDIN)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanttanhed&show_icons=true&theme=white)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanttanhed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanttanhed&theme=chartreuse-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanttanhed&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <code><img height= "25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height= "25" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springColor=white"></code>
