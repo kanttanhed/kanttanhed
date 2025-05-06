@@ -12,7 +12,7 @@
 
 :books: I’m currently learning Software Architecture.
 
-:outbox_tray: 2024 Goals: Help other people.
+:outbox_tray: 2025 Goals: Help other people.
 
  
 
